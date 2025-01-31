@@ -15,7 +15,6 @@ Author URL: http://w3layouts.com
 :root {
     --bs-blue: #0d6efd;
     --bs-gold: #FFD700;
-    --bs-purple: #800080;
     --bs-indigo: #6610f2;
     --bs-purple: #6f42c1 --bs-pink: #d63384;
     --bs-red: #dc3545;
@@ -16749,8 +16748,8 @@ fieldset:disabled .btn {
 }
 
 :root {
-    --primary-color: #800080;
-    --secondary-color: #800080;
+    --primary-color: #dc3545;
+    --secondary-color: #dc3545;
     --font-color: #444;
     --bg-color: #fff;
     --heading-color: #252422;
@@ -16769,8 +16768,8 @@ fieldset:disabled .btn {
 }
 
 [data-theme="dark"] {
-    --primary-color: #800080;
-    --secondary-color: #800080;
+    --primary-color: #dc3545;
+    --secondary-color: #dc3545;
     --font-color: #000000;
     --bg-color: #232220;
     --heading-color: #FFD700;
@@ -19683,4 +19682,4 @@ p.inner-page-para {
 /*--//Footer-9--*/
 
 
-/*# sourceMappingURL=style-freedom.css.map */
+/*# sourceMappingURL=style-freedom.css.map *
